@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/assets/images/A.png",
+        url: "/assets/images/main_logo.png",
         width: 1200,
         height: 630,
         alt: "Aytima Logo",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     title: "Aytima | International Trading & Sourcing for GCC",
     description:
     "Aytima is an international trading company based in China, serving Bahrain, UAE, Saudi Arabia and the Gulf. We source, verify, and deliver reliable packaging products with end-to-end support.",
-    images: ["/assets/images/A.png"],
+    images: ["/assets/images/main_logo.png"],
   },
 };
 

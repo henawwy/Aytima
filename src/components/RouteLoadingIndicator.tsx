@@ -30,7 +30,7 @@ export default function RouteLoadingIndicator({ children }: { children: React.Re
         // Safety fallback: Hide loading after 3 seconds anyway
         const safetyTimer = setTimeout(() => {
             setIsHydrating(false);
-        }, 2000);
+        }, 1000);
 
         return () => {
             if (timer) clearTimeout(timer);
