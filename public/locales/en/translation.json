@@ -1,0 +1,372 @@
+{
+    "nav": {
+        "brand": "Aytima",
+        "home": "Home",
+        "about": "About Us",
+        "products": "Products",
+        "services": "Services",
+        "markets": "Markets",
+        "contact": "Contact Us",
+        "about_us": "About Us",
+        "contact_us": "Contact Us",
+        "language": "Language",
+        "branding_subtitle": "International Trading & Sourcing for GCC"
+    },
+    "whatsapp_float": {
+        "label": "Chat with Experts",
+        "bahrain": "Bahrain",
+        "china": "China",
+        "whatsapp": "WhatsApp",
+        "bahrain_desc": "Local Support & Sales",
+        "china_desc": "Sourcing & Logistics"
+    },
+    "lang": {
+        "en": "English",
+        "ar": "العربية",
+        "zh": "中文"
+    },
+    "home": {
+        "hero": {
+            "title_gold": "International Trading &",
+            "title_rest": "Sourcing Partner for the",
+            "title_gulf": "Gulf",
+            "description": "Aytima helps buyers in Bahrain, UAE, Saudi Arabia, and the GCC source trusted products from China with clear communication, quality control, and smooth delivery.",
+            "whatsapp_btn": "WhatsApp Us",
+            "about_btn": "About Us"
+        },
+        "products": {
+            "section_title": "Product Categories We Handle Today",
+            "section_desc": "We focus on practical, high-demand packaging products for food service, catering, and distribution channels.",
+            "cta": "Get the latest sizes & packing list on WhatsApp",
+            "foil": {
+                "title": "Aluminum Foil Containers & Trays",
+                "desc": "For takeaway, catering, ovens, and food preparation."
+            },
+            "baking": {
+                "title": "Baking & Roasting Cups / Molds",
+                "desc": "Ideal for desserts, bakeries, meal prep, and portioned servings."
+            },
+            "lids": {
+                "title": "Lids & Sealing Options",
+                "desc1": "PP and PET lids, plus foil sealing options depending on application.",
+                "desc2": "Built for containers, wholesalers, and food businesses."
+            }
+        },
+        "why": {
+            "title1": "Reduce Risk. Save Time.",
+            "title2": "Protect Your Margin.",
+            "desc": "International procurement can often fail for simple reasons – unclear specifications, inconsistent quality, and shipping delays.",
+            "quote": "\"Bridging the gap between manufacturing hubs and Gulf markets with trust and transparency.\"",
+            "points": [
+                { "title": "Too many suppliers, no reliable verification", "desc": "We vet and verify every factory so you don't have to." },
+                { "title": "Delays, standard variations, legal & logistics support", "desc": "Managing expectations and regulations across borders." },
+                { "title": "Clear documents and expert support", "desc": "Total transparency in documentation and procurement flow." },
+                { "title": "Fewer claims; tighter spec confirmation & QC checkpoints", "desc": "Rigorous quality control at every stage of production." }
+            ]
+        },
+        "audience": {
+            "title1": "Simple,",
+            "title_gold": "Transparent",
+            "title2": ", Fast",
+            "desc": "Send your request (product type, size, quantity, target market) and we'll handle the rest.",
+            "cards": [
+                { "title": "Distributors & Wholesalers", "desc": "Scaling supply chains with consistency." },
+                { "title": "Supermarkets & Private Label", "desc": "Reliable sourcing for retail demand." },
+                { "title": "Restaurants & Catering", "desc": "Premium packaging for food service." },
+                { "title": "Bakeries & Dessert Brands", "desc": "High-quality molds & presentation." },
+                { "title": "Airline & Event Suppliers", "desc": "Bespoke solutions for large-scale operations." }
+            ]
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "About Aytima",
+            "description": "A China-based international trading partner focused on supporting Gulf buyers with reliable sourcing and smoother procurement.",
+            "whatsapp_btn": "WhatsApp Us",
+            "products_btn": "View Products"
+        },
+        "who": {
+            "title": "Who We Are",
+            "p1": "Aytima (Nanjing Aytima International Trade Co., Ltd.) is an International trading company based in Nanjing, China.",
+            "p2": "We support buyers across the Gulf—especially Bahrain, UAE, and Saudi Arabia—by sourcing packaging products, confirming specifications, and coordinating export steps.",
+            "quote_card": {
+                "title": "Request a Quote",
+                "desc": "Get professional pricing for your specific needs.",
+                "btn": "Contact now"
+            },
+            "office_card": {
+                "title": "Office in Nanjing",
+                "desc": "Strategically located near major manufacturing hubs.",
+                "loc": "Nanjing, China"
+            }
+        },
+        "facts": {
+            "title": "Quick Facts",
+            "items": [
+                { "label": "Based in", "value": "Nanjing, China" },
+                { "label": "Markets", "value": "Bahrain • UAE • Saudi Arabia • GCC" },
+                { "label": "Focus", "value": "Packaging Products" },
+                { "label": "Support", "value": "Sourcing • Specs • Export Coordination" }
+            ]
+        },
+        "mission": {
+            "title": "Our Mission",
+            "quote": "\"To help GCC buyers source the right products from China with less risk, clear communication, and dependable delivery—so they can focus on selling and growing their business.\""
+        },
+        "different": {
+            "title": "What Makes Aytima Different",
+            "items": [
+                { "title": "Buyer-first communication", "desc": "Clear specs, clear answers, fast updates" },
+                { "title": "Supplier verification mindset", "desc": "We prioritize reliability and consistency" },
+                { "title": "Trade-ready support", "desc": "Documents, packing details, and shipping coordination" },
+                { "title": "Gulf market understanding", "desc": "We know what distributors and HORECA buyers expect" }
+            ]
+        }
+    },
+    "products_page": {
+        "hero": {
+            "title": "Products We Handle",
+            "description": "Practical, high-demand packaging items for food service, catering, and trade buyers in the Gulf.",
+            "whatsapp_btn": "WhatsApp Us",
+            "services_btn": "Explore Services"
+        },
+        "section_btn": "Get the latest sizes & packing list on WhatsApp",
+        "items": [
+            {
+                "category": "Product Category 1",
+                "title": "Aluminum Foil Containers & Trays",
+                "intro": "For takeaway, catering, meal prep, and food presentation.",
+                "benefits_title": "Key Benefits",
+                "benefits": [
+                    "Suitable for hot and cold food applications",
+                    "Wide range of shapes: round, rectangular, oval, compartment options",
+                    "Multiple depths and capacities for different menus",
+                    "Trade-friendly packing quantities"
+                ],
+                "uses_title": "Common Uses",
+                "uses": "Restaurants, caterers, meal prep, supermarkets, airline/event catering."
+            },
+            {
+                "category": "Product Category 2",
+                "title": "Baking & Roasting Cups / Molds",
+                "intro": "Portion-sized foil cups and molds for baking, desserts, and ready portions.",
+                "benefits_title": "Key Benefits",
+                "benefits": [
+                    "Ideal for bakeries, dessert brands, and portion control",
+                    "Different sizes and capacities available",
+                    "Options for different shapes (depending on requirement)"
+                ]
+            },
+            {
+                "category": "Product Category 3",
+                "title": "Lids & Sealing Options",
+                "intro": "Choose the right closure for your use-case.",
+                "options_title": "Options",
+                "options": [
+                    { "label": "PP Lid", "desc": "Suitable for hot food use-cases; designed to handle elevated temperatures." },
+                    { "label": "PET Clear Lid", "desc": "Best for cold/room-temperature presentation where visibility matters." },
+                    { "label": "Foil Sealing Lid", "desc": "For stronger sealing needs (requires sealing machine) and higher heat tolerance use-cases." }
+                ],
+                "note_prefix": "Note: ",
+                "note": "Availability depends on container type and size."
+            },
+            {
+                "category": "Product Category 4",
+                "title": "Custom Packing & Trade Requirements",
+                "intro": "We support buyer requirements for distribution and resale.",
+                "support_title": "Available Support",
+                "support": [
+                    "Packing confirmation (carton quantity, inner packing, labeling needs)",
+                    "Specification alignment to avoid mismatch issues",
+                    "Options discussion based on your market and customer expectations"
+                ]
+            }
+        ]
+    },
+    "services_page": {
+        "hero": {
+            "title": "Trading Services for GCC",
+            "description": "End-to-end support designed to reduce sourcing risk and improve landed cost for Gulf buyers.",
+            "whatsapp_btn": "WhatsApp Us",
+            "markets_btn": "Explore Markets"
+        },
+        "process": {
+            "badge": "Our Process",
+            "title": "Expert Sourcing & Trade Support",
+            "description": "A structured, end-to-end approach to ensure your procurement from China is reliable, transparent, and cost-effective.",
+            "steps": [
+                {
+                    "category": "Step 01",
+                    "title": "Product Sourcing & Options",
+                    "intro": "We source the right product options based on your target market, price point, and usage needs. You receive clear choices with spec alignment before moving forward.",
+                    "benefits": ["Target market specific options", "Price point optimization", "Usage-based sourcing", "Full spec alignment"]
+                },
+                {
+                    "category": "Step 02",
+                    "title": "Supplier Screening & Reliability",
+                    "intro": "We prioritize consistent suppliers and reduce risk by confirming capability, packaging standards, and fulfillment reliability.",
+                    "benefits": ["Consistent supply partner focus", "Capability verification", "Packaging standards", "Reliability checks"]
+                },
+                {
+                    "category": "Step 03",
+                    "title": "Quotation & Negotiation",
+                    "intro": "We help you compare options fairly (specs + packing + lead time) so you can make procurement decisions that protect your margin.",
+                    "benefits": ["Fair option comparison", "Margin protection", "Lead time negotiation", "Packing detail clarity"]
+                },
+                {
+                    "category": "Step 04",
+                    "title": "Quality Checkpoints",
+                    "intro": "Many problems happen because of small spec misunderstandings. We focus on rigorous checks before and during preparation.",
+                    "benefits": ["Pre-production spec audit", "Packaging match checks", "In-process quality control", "Reduced rework risk"]
+                },
+                {
+                    "category": "Step 05",
+                    "title": "Consolidation Planning",
+                    "intro": "If your order contains multiple items, we support consolidation planning to reduce shipping complexity and help lower total landed cost.",
+                    "benefits": ["Multi-item consolidation", "Reduced complexity", "Lowered landed cost", "Efficient planning"]
+                },
+                {
+                    "category": "Step 06",
+                    "title": "Export & Shipping",
+                    "intro": "We support trade requirements and coordinate shipment readiness with clear packing details and export documentation steps.",
+                    "benefits": ["Trade requirement support", "Documentation coordination", "Clear packing lists", "Ready-to-ship verification"]
+                }
+            ]
+        },
+        "roi": {
+            "badge": "Buyer ROI",
+            "title": "The Real Value of a Trading Partner",
+            "description": "Aytima exists to protect your time and capital through a more professional bridge from China to the Gulf.",
+            "items": [
+                {
+                    "title": "Fewer Errors, Fewer Delays",
+                    "description": "Rigorous checkpoints reduce mistakes that lead to costly project delays."
+                },
+                {
+                    "title": "Better Predictability",
+                    "description": "Clear communication and planning for a smoother sales cycle."
+                },
+                {
+                    "title": "Reduced Operational Load",
+                    "description": "We handle the ground-level details so your team can focus on growth."
+                },
+                {
+                    "title": "Cleaner Communication",
+                    "description": "Transparent bridge from China production to Gulf procurement."
+                }
+            ],
+            "whatsapp_cta": "Send Your Requirement on WhatsApp"
+        }
+    },
+    "markets_page": {
+        "hero": {
+            "title": "Focused on the Gulf Market",
+            "description": "We work with buyers who need reliable supply for the GCC.",
+            "whatsapp_btn": "WhatsApp Us",
+            "contact_btn": "Contact Us"
+        },
+        "region": {
+            "badge": "Where We Serve",
+            "title_main": "Seamless Sourcing",
+            "title_sub": "Across the",
+            "title_italic": "Middle East",
+            "description": "Aytima supports trade buyers across the most dynamic Gulf markets, ensuring every shipment meets local regulatory and quality standards.",
+            "partnership": "ESTABLISHED PARTNERSHIP",
+            "items": [
+                { "name": "Bahrain", "desc": "Regional Logistics Hub", "flag": "🇧🇭" },
+                { "name": "United Arab Emirates", "desc": "Global Trade Gateway", "flag": "🇦🇪" },
+                { "name": "Saudi Arabia", "desc": "Dynamic Growth Market", "flag": "🇸🇦" },
+                { "name": "Wider GCC", "desc": "Comprehensive Support", "flag": "GCC" }
+            ]
+        },
+        "standards": {
+            "bg_text": "Standards",
+            "badge": "The Aytima Standard",
+            "title_main": "Built Around",
+            "title_gold": "Gulf Buyer Requirements",
+            "quote": "\"We deliver more than products; we deliver peace of mind for buyers who cannot afford a supply chain failure.\"",
+            "premium_badge": "PREMIUM GCC EXPORT",
+            "floating_card": {
+                "title": "Verified Manufacturing",
+                "desc": "Every factory is vetted against ISO and Gulf trade compliance standards."
+            },
+            "points": [
+                { "title": "Fast Response & Clear Structure", "desc": "Detailed quotation structures with all costs amortized. No hidden fees, no delayed responses." },
+                { "title": "Stable Quality & Packing", "desc": "Consistency is our signature. Every batch matches your sample, every pallet is export-ready." },
+                { "title": "Market-Aligned Inventory", "desc": "We source products specifically designed for Gulf distribution channels and consumer habits." },
+                { "title": "Export-Ready Coordination", "desc": "Detailed shipment steps and documentation management for smooth customs clearance." }
+            ]
+        },
+        "buyer_profiles": {
+            "title": "Typical Buyer Profiles",
+            "description": "Our services are highly specialized for businesses that demand high-volume production and flawless logistics.",
+            "items": [
+                { "title": "Distributors", "desc": "Wholesale partners managing large inventories and looking for cost-effective manufacturing scale." },
+                { "title": "HORECA Suppliers", "desc": "Supplying top-tier hotels and restaurants where packaging quality directly impacts brand perception." },
+                { "title": "Supermarkets", "desc": "Retail procurement teams requiring private label support and high-shelf-impact packaging designs." },
+                { "title": "Catering & Prep", "desc": "Industrial kitchens and meal prep services that need optimized portioning and durability." }
+            ],
+            "cta": "Get GCC-Ready Quotation"
+        }
+    },
+    "contact_page": {
+        "hero": {
+            "title": "Contact Aytima",
+            "description": "The fastest way to get a quotation is WhatsApp. Send your required size, quantity, and destination market.",
+            "whatsapp_bh": "Chat Us (Bahrain)",
+            "whatsapp_cn": "Chat Us (China)",
+            "email_btn": "Email Support"
+        }
+    },
+    "cta": {
+        "title": "Ready to optimize your sourcing?",
+        "desc": "Discuss your procurement needs with our GCC-based team today.",
+        "btn": "Contact Our Experts"
+    },
+    "contact_form": {
+        "badge": "Get In Touch",
+        "title1": "Ready to Optimize",
+        "title2": "Your Sourcing?",
+        "desc": "Discuss your procurement needs with our GCC-based team today. We provide transparent, reliable, and high-quality aluminum packaging solutions.",
+        "whatsapp_btn": "WhatsApp Us",
+        "email_btn": "Email Support",
+        "wa_channels": "WhatsApp Channels",
+        "bahrain": "Bahrain",
+        "china": "China",
+        "telephone": "Telephone Support",
+        "bahrain_office": "Bahrain Office",
+        "china_office": "China Office",
+        "hq": "Global Headquarters",
+        "address": "Room A7-Z129, No. 199 Mufu East Rd., Mufushan Subdistrict, Gulou District, Nanjing, Jiangsu, China"
+    },
+    "footer": {
+        "banner_text": "Connecting markets with trusted aluminum",
+        "banner_gold": "packaging solutions worldwide.",
+        "company_name": "Nanjing Aytima International Trade Co., Ltd.",
+        "company_desc": "Empowering global trade with quality control and transparent sourcing services.",
+        "nav_title": "Navigation",
+        "popular_title": "Popular Range",
+        "popular_items": [
+            "Aluminum Containers",
+            "Foil Trays",
+            "Custom Orders",
+            "Bulk Supply"
+        ],
+        "contact_title": "Contact Us",
+        "email": "Email",
+        "whatsapp": "WhatsApp",
+        "telephone": "Telephone",
+        "address": "Address",
+        "address_val": "Room A7-Z129, No. 199 Mufu East Rd., Mufushan Subdistrict, Gulou District, Nanjing, Jiangsu, China",
+        "bahrain": "Bahrain: ",
+        "china": "China: ",
+        "rights": "All rights reserved."
+    },
+    "not_found": {
+        "title": "Lost at Sea?",
+        "description": "The coordinates you've entered lead to uncharted waters. The page you are looking for might have been moved or removed from our trade route.",
+        "return_home": "Return Home",
+        "go_back": "Go Back",
+        "branding": "Aytima International Trade"
+    }
+}
