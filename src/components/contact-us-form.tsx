@@ -3,11 +3,11 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import { Mail, MessageCircle, Phone, MapPin, Instagram, Facebook } from "lucide-react";
+import { Mail, MessageCircle, Phone, MapPin, Instagram, Facebook, UserStar } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 export function ContactUsForm() {
-  const { t } = useTranslation();
+    const { t } = useTranslation();
 
     return (
         <section suppressHydrationWarning className="relative py-24 px-3 sm:px-6 md:px-20 bg-[#ffffff] dark:bg-[#0a0a0c] overflow-hidden">
@@ -49,6 +49,12 @@ export function ContactUsForm() {
                     <Button variant="outline" className="w-full cursor-pointer sm:w-auto rounded-full px-10 h-12 text-sm border-gray-300 dark:border-white/10 dark:text-white hover:bg-black/10 dark:hover:bg-white/10 transition-all">
                     <Mail className="mr-2 h-5 w-6" />
                     {t("contact_form.email_btn")}
+                    </Button>
+                </Link>
+                <Link href="mailto:Manager@aytima.org">
+                    <Button variant="outline" className="w-full cursor-pointer sm:w-auto rounded-full px-10 h-12 text-sm border-gray-300 dark:border-white/10 dark:text-white hover:bg-black/10 dark:hover:bg-white/10 transition-all">
+                    <UserStar className="mr-2 h-5 w-6" />
+                    {t("contact_form.manager_btn")}
                     </Button>
                 </Link>
                 </div>

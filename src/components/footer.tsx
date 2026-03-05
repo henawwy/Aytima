@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import { Phone, Mail, MapPin, MessageCircle, Facebook, Instagram } from 'lucide-react';
+import { Phone, Mail, MapPin, MessageCircle, Facebook, Instagram, UserStar } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 const Footer = () => {
@@ -46,6 +46,7 @@ const Footer = () => {
 
             <div className="flex gap-4">
                 {[
+                    { Icon: UserStar, href: "mailto:Manager@aytima.org" },
                     { Icon: Mail, href: "mailto:Customerservice.aytima@gmail.com" },
                     { Icon: Facebook, href: "https://www.facebook.com/share/1HMLRYmGUQ/" },
                     { Icon: Instagram, href: "https://www.instagram.com/aytimatrade?igsh=MXM1bjl6MGFtNGZpNw==" },
@@ -130,6 +131,10 @@ const Footer = () => {
                     </div>
                     <div className="text-xs space-y-1 text-start">
                         <p className="text-gray-200 uppercase tracking-tighter font-bold">{t("footer.email")}</p>
+                        <Link href="mailto:Manager@aytima.org" className="text-gray-300 hover:text-[#fbea94] transition-colors">
+                            Manager@aytima.org
+                        </Link>
+                        <br />
                         <Link href="mailto:Customerservice.aytima@gmail.com" className="text-gray-300 hover:text-[#fbea94] transition-colors">
                             Customerservice.aytima@gmail.com
                         </Link>

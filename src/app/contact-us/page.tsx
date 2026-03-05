@@ -65,6 +65,15 @@ export default function ContactUsPage() {
             {t("contact_page.hero.email_btn")}
             </Button>
           </Link>
+          <Link href="mailto:Manager@aytima.org">
+            <Button 
+            variant="outline" 
+            size="lg" 
+            className="text-xs sm:text-base cursor-pointer border-[#fbea94] bg-[#2f3056] hover:bg-[#1d1e32]  text-white hover:text-white dark:border-[#fbea94] dark:bg-[#2f3056] dark:hover:bg-[#1d1e32]  dark:text-white  font-semibold rounded-full px-8 h-10 transition-all"
+            >
+            {t("contact_page.hero.manager_btn")}
+            </Button>
+          </Link>
         </Hero>
         
         <div suppressHydrationWarning id="here" className="pt-20 bg-[#ffffff] dark:bg-[#0a0a0c]"></div>

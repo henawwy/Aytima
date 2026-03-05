@@ -315,7 +315,8 @@
             "description": "The fastest way to get a quotation is WhatsApp. Send your required size, quantity, and destination market.",
             "whatsapp_bh": "Chat Us (Bahrain)",
             "whatsapp_cn": "Chat Us (China)",
-            "email_btn": "Email Support"
+            "email_btn": "Email Support",
+            "manager_btn": "Manager Email"
         }
     },
     "cta": {
@@ -330,6 +331,7 @@
         "desc": "Discuss your procurement needs with our GCC-based team today. We provide transparent, reliable, and high-quality aluminum packaging solutions.",
         "whatsapp_btn": "WhatsApp Us",
         "email_btn": "Email Support",
+        "manager_btn": "Manager Email",
         "wa_channels": "WhatsApp Channels",
         "bahrain": "Bahrain",
         "china": "China",

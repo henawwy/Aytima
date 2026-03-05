@@ -310,7 +310,8 @@
             "description": "获取报价最快的方式是 WhatsApp。发送您所需的尺寸、数量和目的地市场。",
             "whatsapp_bh": "联系我们 (巴林)",
             "whatsapp_cn": "联系我们 (中国)",
-            "email_btn": "邮件支持"
+            "email_btn": "邮件支持",
+            "manager_btn": "经理邮件"
         }
     },
     "cta": {
@@ -325,6 +326,7 @@
         "desc": "立即与我们位于海湾地区的团队讨论您的采购需求。我们提供透明、可靠、高质量的铝制包装解决方案。",
         "whatsapp_btn": "WhatsApp 联系",
         "email_btn": "邮件支持",
+        "manager_btn": "经理邮件",
         "wa_channels": "WhatsApp 渠道",
         "bahrain": "巴林",
         "china": "中国",
